@@ -2,3 +2,7 @@
 Github:
 
 https://github.com/marisela1296/homework1.git
+
+Netlify:
+
+https://blissful-nightingale-f1d506.netlify.com/
